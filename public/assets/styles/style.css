@@ -1,0 +1,15 @@
+
+.navbar-brand {
+    width: 80%;
+}
+.bg-default {
+    background-color: #ff7900;
+}
+.nav-link {
+    font-weight: bold;
+    font-size: 130%;
+    color: black!important;
+}
+.nav-selectedlink {
+    color: white!important;
+}
