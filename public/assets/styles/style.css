@@ -13,3 +13,10 @@
 .nav-selectedlink {
     color: white!important;
 }
+.footer{
+    background-color: black;
+    border-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+}
