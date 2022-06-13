@@ -94,3 +94,129 @@
 .section-purpouse{
     margin-bottom: 100px;
 }
+article{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 280px;
+    margin-bottom: 40px;
+    position: relative;
+}
+.sectionproducts{
+    margin: 0;
+    padding-right: 0;
+    width: 100%;
+    overflow: visible;
+    display: inline-block;
+    margin: 20px auto;
+}
+.imagenprod{
+    height: 182px;
+}
+.imgprd{
+    height: 182px;
+    display: block;
+    color: transparent;
+    width: 100%;
+    border-radius: 6px;
+    border: 0;
+}
+.descprod{
+    height: 200px;
+    background: #f7f8f9!important;
+    border: 0;
+    padding: 8px 10px 14px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0 0 6px 6px;
+}
+
+.titletextdesc{
+    font-size: .8rem;
+    color: #7b7b7b;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 10px;
+    height: 22px;
+    overflow: hidden;
+}
+.titletextdesch3{
+    color: #333;
+    font-size: 1.063rem;
+    font-weight: 400;
+    height: 48px;
+    line-height: 1.2;
+    margin: 0 0 15px;
+    overflow: hidden;
+    padding: 0.4em 0;
+    width: 100%;
+}
+.descuento{
+    background: #fff;
+    color: #e10d33;
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-top: 7px;
+    border: 2px solid #e10d33;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    margin-bottom: 4.5rem;
+    border-radius: 6px;
+}
+.extras{
+    float: left;
+    text-align: left;
+}
+.vendidos{
+    font-size: .813rem;
+    margin-bottom: 3px;
+    color: #666;
+    float: left;
+    margin-top: 5px;
+    line-height: 1rem;
+}
+.precio{
+    float: right;
+    margin-top: 5px;
+    text-align: right;
+    border: 0;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    margin-right: 0;
+}
+.actual{
+    font-size: 1.2rem!important;
+    display: block;
+    font-weight: 700;
+    margin-bottom: 4px;
+    line-height: 1rem;
+    color: #e10d33;
+    margin-right: 0;
+
+}
+.title-descuento{
+    color: #888;
+    margin: 4px 0;
+    text-transform: uppercase;
+    font-size: .7rem;
+    margin-right: 0;
+    line-height: 1rem;
+}
+.antes{
+    color: #6f6f6f;
+    display: block;
+    font-size: .7rem;
+    text-decoration: line-through;
+    line-height: 1rem;
+    margin-right: 0;
+}
+.container-products{
+    width: fit-content;
+    margin: 0 auto;
+}
